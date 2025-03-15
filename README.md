@@ -6,4 +6,4 @@ Final Directory:
 2) Two other files from our later submission attempts, demonstrating the sorts of additional things we were trying without added success
 
 in Progress Directory:
-Has all the code cited in the report and (almost) all the code could document throughout the competition.
+1) Has all the code cited in the report and (almost) all the code could document throughout the competition.
